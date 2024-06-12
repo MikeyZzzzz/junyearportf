@@ -6,7 +6,7 @@ html,body{
 	box-sizing: border-box;
 }
 .banner{
-   background-image: url(END.png);
+   background-image: url(end.png);
 	background-color: black (0, 204, 190, 0.5);
 	margin: 15px;
 	padding: 10px;
@@ -30,7 +30,7 @@ h1{
 	right: 72%;
 }
 .container{
-  background-image: url(END.png);
+  background-image: url(end.png);
 	border:2px red solid;
 	box-shadow: 1px 3px 30px 1px red;
 	position: relative;
